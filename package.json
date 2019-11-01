@@ -1,0 +1,22 @@
+{
+  "name": "mvc-app",
+  "version": "1.0.0",
+  "description": "Basic MVC application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugimamidi/mvc-app.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Anil Bomma, Bharat Reddy, Omkar Abhiteja, Yugandhar Mamidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yugimamidi/mvc-app/issues"
+  },
+  "homepage": "https://github.com/yugimamidi/mvc-app#readme"
+}
