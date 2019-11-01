@@ -1,3 +1,3 @@
 # mvc-app
-Bharat
-Anil Bomma
+- Bharat
+- Anil Bomma
